@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <!-- 
+  Google tag (gtag.js) 
+  -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WW3XQ76G0V"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-WW3XQ76G0V');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Generador de horarios">
+  <meta name="author" content="creadordehorarioseducacionales@gmail.com">
+
+  <title>Creador de horarios</title>
+
+  <link rel="icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="css/mod.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/floatingButton.min.css">
+
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary navbar-light p-3 box-shadow">
+
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Creador de horarios</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+  </nav>
+
+  <div class="container p-3" id="div_container">
+
+    <!--
+    <div class="margen">
+      <h6>Tiempo restante de prueba:</h6>
+      <div id="countdown"></div>
+    </div>
+    -->
+
+    <div class="row">
+      <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="info-fill" fill="currentColor" viewBox="0 0 16 16">
+          <path
+            d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" />
+        </symbol>
+      </svg>
+      <div class="alert alert-primary d-flex align-items-center" role="alert">
+        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:">
+          <use xlink:href="#info-fill" />
+        </svg>
+        <div>
+          El creador de horarios esta en etapa de prueba
+        </div>
+      </div>
+    </div>
+
+    <!--      
+    -->
+    <div class="margen">
+      <h6>¿Cómo crear horarios?</h6>
+      <a href="https://youtu.be/_-kiniKj2dQ" target="_blank">Video explicativo</a>
+    </div>
+
+    <div class="margen">
+      <h6>Recursos:</h6>
+      <a href="https://inscripciones.duoc.cl/IA/" target="_blank">Archivos Excel de Duoc UC</a>
+      <br>
+      <a href="https://drive.google.com/drive/folders/16leSWSh6g1LgBW98CupEeaqVSdxh-d97?usp=share_link"
+        target="_blank">Archivos Excel de respaldo</a>
+    </div>
+
+    <div class="margen">
+      <h6>Redes sociales:</h6>
+      <a href="https://www.youtube.com/@CreadordeHorariosEducacionales" target="_blank">YouTube</a>
+      <br>
+      <a href="https://discord.gg/PAhZ8XP3hB" target="_blank">Discord</a>
+    </div>
+
+    <div class="margen">
+
+      <div class="margen" id="ejemplo">
+        <h6>Requisitos:</h6>
+        <ol>
+          <li>Leer cada parte de la presente pagína web.</li>
+          <li>Tener el archivo con extensión .xlsx o .xls</li>
+          <li>Tener en la hoja en que estan los datos los nombres de cada
+            columna (Carrera, Jornda, Semestres, Sección y más) y sus datos deven ser correspondidos.</li>
+          <li>Si el archivo excel es de años anterior a 2018 hay que cambiar los especios en los titulos de la
+            columna "Asignatura en malla", por guione bajo bajos "_"</li>
+        </ol>
+        <h6>Ejemplo:</h6>
+      </div>
+
+      <div class="margen">
+        <h6>Consideraciones:</h6>
+        <ol>
+          <li>El uso de este sistema es para generar horarios.</li>
+          <li>Los datos que utiliza este sistema es unicamente del archivo Excel.</li>
+          <li>Este sistema no usa cookie.</li>
+          <li>Este sistema tiene Google Analitics.</li>
+          <li>Ultima actualizazion para el segundo semestre de 2023.</li>
+          <li>Sistema inspirado en los horarios que entrega Duoc UC, soporta los años 2014 a 2017, 2018 a 2021 y
+            2022 a 2023.
+          </li>
+        </ol>
+      </div>
+
+    </div>
+
+    <div class="margen">
+      <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
+          <path
+            d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z" />
+        </symbol>
+      </svg>
+      <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:">
+          <use xlink:href="#exclamation-triangle-fill" />
+        </svg><strong>Recomendación: </strong> Pruebe creando los horarios con el excel, nuevamente descargado, un día
+        antes de tomar los ramos.
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+    </div>
+
+    <div class="margen">
+      <h5>Comencemos</h5>
+    </div>
+
+  </div>
+
+  <div>
+    <footer>
+      <div class="container p-3">
+        <!--
+        <div class="row">
+          <div class="col-12 col-md-4 col-lg-4">
+            <h4>Facebook</h4>
+            <p><i class="fab fa-facebook"></i>
+              <a href="#"></a>
+            </p>
+          </div>
+          <div class="col-12 col-md-4 col-lg-4">
+            <h4 id="contacto1">Contactos</h4>
+            <p></p>
+          </div>
+          <div class="col-12 col-md-4 col-lg-4">
+            <h4 id="contacto2">Estamos tambien</h4>
+            <p></p>
+          </div>
+        </div>
+        -->
+      </div>
+    </footer>
+  </div>
+
+  <script src="js/jszip.min.js"></script>
+
+  <script src="js/xlsx.min.js"></script>
+
+  <script src="js/manager.min.js"></script>
+
+  <script src="js/bootstrap.bundle.min.js"></script>
+
+  <!-- <script src="js/timeLeft.min.js"></script> -->
+
+  <!-- <script src="js/shearchDiference.js"></script> -->
+
+  <!-- <script src="js/no.js"></script> -->
+</body>
+
+</html>
