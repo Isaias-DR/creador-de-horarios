@@ -1,0 +1,44 @@
+[
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": true,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:01:00",
+      "TERMINA": "23:00:00"
+    },
+    "DURACION_MODULO_BASE": 44,
+    "TOTAL_MODULS": 20,
+    "RECESS": [],
+    "namesFiles": [
+      "VALPARAISO.xlsx"
+    ],
+    "namesFiles2": [
+      "VALPARAÍSO"
+    ]
+  },
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": true,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:01:00",
+      "TERMINA": "23:45:00"
+    },
+    "DURACION_MODULO_BASE": 44,
+    "TOTAL_MODULS": 21,
+    "RECESS": [],
+    "namesFiles": [
+      "VINA-DEL-MAR.xlsx"
+    ],
+    "namesFiles2": [
+      "VIÑA DEL MAR"
+    ]
+  }
+]

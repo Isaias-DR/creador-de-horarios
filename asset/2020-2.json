@@ -1,0 +1,23 @@
+[
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": false,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:01:00",
+      "TERMINA": "23:45:00"
+    },
+    "DURACION_MODULO_BASE": 44,
+    "TOTAL_MODULS": 21,
+    "RECESS": [],
+    "namesFiles": [
+      "VINA-DEL-MAR.xlsx"
+    ],
+    "namesFiles2": [
+      "VIÑA DEL MAR"
+    ]
+  }
+]

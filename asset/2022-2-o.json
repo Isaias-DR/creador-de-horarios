@@ -1,0 +1,22 @@
+{
+  "con": [
+    "ALAMEDA.xlsx",
+    "MAIPU.xlsx",
+    "PLAZA-OESTE.xlsx",
+    "PUENTE-ALTO.xlsx",
+    "PUERTO-MONTT.xlsx",
+    "SAN-BERNARDO.xlsx"
+  ],
+  "sin": [
+    "ANTONIO-VARAS.xlsx",
+    "CAMPUS-ARAUCO.xlsx",
+    "CONCEPCION.xlsx",
+    "MELIPILLA.xlsx",
+    "PADRE-ALONSO-DE-OVALLE.xlsx",
+    "PLAZA-NORTE.xlsx",
+    "PLAZA-VESPUCIO.xlsx",
+    "SAN-JOAQUIN.xlsx",
+    "VALPARAISO.xlsx",
+    "VINA-DEL-MAR.xlsx"
+  ]
+}
