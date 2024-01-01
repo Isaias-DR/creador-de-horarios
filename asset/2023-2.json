@@ -1,0 +1,125 @@
+[
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": false,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:31:00",
+      "TERMINA": "22:30:00"
+    },
+    "DURACION_MODULO_BASE": 39,
+    "TOTAL_MODULS": 27,
+    "RECESS": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "ALAMEDA.xlsx",
+      "ANTONIO-VARAS.xlsx",
+      "CAMPUS-ARAUCO.xlsx",
+      "CAMPUS-VILLARRICA.xlsx",
+      "MAIPU.xlsx",
+      "MELIPILLA.xlsx",
+      "NACIMIENTO.xlsx",
+      "PADRE-ALONSO-DE-OVALLE.xlsx",
+      "PLAZA-NORTE.xlsx",
+      "PLAZA-OESTE.xlsx",
+      "PLAZA-VESPUCIO.xlsx",
+      "PUENTE-ALTO.xlsx",
+      "PUERTO-MONTT.xlsx"
+    ],
+    "namesFiles2": [
+      "ALAMEDA",
+      "ANTONIO VARAS",
+      "CAMPUS ARAUCO",
+      "CAMPUS VILLARRICA",
+      "MAIPÚ",
+      "MELIPILLA",
+      "NACIMIENTO",
+      "PADRE ALONSO DE OVALLE",
+      "PLAZA NORTE",
+      "PLAZA OESTE",
+      "PLAZA VESPUCIO",
+      "PUENTE ALTO",
+      "PUERTO MONTT"
+    ]
+  },
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": true,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:31:00",
+      "TERMINA": "22:30:00"
+    },
+    "DURACION_MODULO_BASE": 39,
+    "TOTAL_MODULS": 27,
+    "RECESS": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "CONCEPCION.xlsx",
+      "SAN-BERNARDO.xlsx",
+      "SAN-CARLOS-DE-APOQUINDO.xlsx",
+      "SAN-JOAQUIN.xlsx"
+    ],
+    "namesFiles2": [
+      "CONCEPCIÓN",
+      "SAN BERNARDO",
+      "SAN CARLOS DE APOQUINDO",
+      "SAN JOAQUÍN"
+    ]
+  },
+  {
+    "OBSERVACIONES": {
+      "o1Refuced": false,
+      "o2Min": false,
+      "o3CreatedModuls": false,
+      "o4Secuens": false
+    },
+    "TEXTO_MODULOS": {
+      "INICIA": "8:01:00",
+      "TERMINA": "22:50:00"
+    },
+    "DURACION_MODULO_BASE": 39,
+    "TOTAL_MODULS": 29,
+    "RECESS": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      22,
+      25,
+      28
+    ],
+    "namesFiles": [
+      "VALPARAISO.xlsx",
+      "VINA-DEL-MAR.xlsx"
+    ],
+    "namesFiles2": [
+      "VALPARAÍSO",
+      "VIÑA DEL MAR"
+    ]
+  }
+]

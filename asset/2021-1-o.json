@@ -1,0 +1,24 @@
+{
+  "con": [
+    "ANTONIO-VARAS.xlsx",
+    "CAMPUS-ARAUCO.xlsx",
+    "CONCEPCION.xlsx",
+    "MAIPU.xlsx",
+    "PADRE-ALONSO-DE-OVALLE.xlsx",
+    "SAN-CARLOS-DE-APOQUINDO.xlsx",
+    "VALPARAISO.xlsx",
+    "VINA-DEL-MAR.xlsx"
+  ],
+  "sin": [
+    "ALAMEDA.xlsx",
+    "CAMPUS-VILLARRICA.xlsx",
+    "MELIPILLA.xlsx",
+    "PLAZA-NORTE.xlsx",
+    "PLAZA-OESTE.xlsx",
+    "PLAZA-VESPUCIO.xlsx",
+    "PUENTE-ALTO.xlsx",
+    "PUERTO-MONTT.xlsx",
+    "SAN-BERNARDO.xlsx",
+    "SAN-JOAQUIN.xlsx"
+  ]
+}
