@@ -1,0 +1,204 @@
+[
+  {
+    "observaciones": [
+      false,
+      false,
+      false
+    ],
+    "minYmax": {
+      "min": "8:31:00",
+      "max": "22:30:00"
+    },
+    "min": 39,
+    "totalModuls": 27,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "ALAMEDA.xlsx",
+      "CAMPUS-ARAUCO.xlsx",
+      "CONCEPCION.xlsx",
+      "MAIPU.xlsx",
+      "MELIPILLA.xlsx",
+      "NACIMIENTO.xlsx",
+      "PADRE-ALONSO-DE-OVALLE.xlsx",
+      "SAN-BERNARDO.xlsx",
+      "SAN-CARLOS-DE-APOQUINDO.xlsx",
+      "SAN-JOAQUIN.xlsx"
+    ],
+    "namesFiles2": [
+      "ALAMEDA",
+      "CAMPUS ARAUCO",
+      "CONCEPCIÓN",
+      "MAIPÚ",
+      "MELIPILLA",
+      "NACIMIENTO",
+      "PADRE ALONSO DE OVALLE",
+      "SAN BERNARDO",
+      "SAN CARLOS DE APOQUINDO",
+      "SAN JOAQUÍN"
+    ]
+  },
+  {
+    "observaciones": [
+      false,
+      false,
+      true
+    ],
+    "minYmax": {
+      "min": "8:31:00",
+      "max": "22:30:00"
+    },
+    "min": 39,
+    "totalModuls": 29,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "ANTONIO-VARAS.xlsx",
+      "PLAZA-NORTE.xlsx",
+      "PLAZA-OESTE.xlsx",
+      "PLAZA-VESPUCIO.xlsx",
+      "PUENTE-ALTO.xlsx"
+    ],
+    "namesFiles2": [
+      "ANTONIO VARAS",
+      "PLAZA NORTE",
+      "PLAZA OESTE",
+      "PLAZA VESPUCIO",
+      "PUENTE ALTO"
+    ]
+  },
+  {
+    "observaciones": [
+      false,
+      false,
+      true
+    ],
+    "minYmax": {
+      "min": "8:31:00",
+      "max": "22:30:00"
+    },
+    "min": 39,
+    "totalModuls": 30,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "CAMPUS-VILLARRICA.xlsx"
+    ],
+    "namesFiles2": [
+      "CAMPUS VILLARRICA"
+    ]
+  },
+  {
+    "observaciones": [
+      false,
+      false,
+      false
+    ],
+    "minYmax": {
+      "min": "8:31:00",
+      "max": "21:50:00"
+    },
+    "min": 39,
+    "totalModuls": 27,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "namesFiles": [
+      "PUERTO-MONTT.xlsx"
+    ],
+    "namesFiles2": [
+      "PUERTO MONTT"
+    ]
+  },
+  {
+    "observaciones": [
+      false,
+      false,
+      true
+    ],
+    "minYmax": {
+      "min": "8:01:00",
+      "max": "22:50:00"
+    },
+    "min": 39,
+    "totalModuls": 32,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      25,
+      28,
+      31
+    ],
+    "namesFiles": [
+      "VALPARAISO.xlsx"
+    ],
+    "namesFiles2": [
+      "VALPARAÍSO"
+    ]
+  },
+  {
+    "observaciones": [
+      false,
+      false,
+      false
+    ],
+    "minYmax": {
+      "min": "8:01:00",
+      "max": "22:50:00"
+    },
+    "min": 39,
+    "totalModuls": 29,
+    "recess": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      22,
+      25,
+      28
+    ],
+    "namesFiles": [
+      "VINA-DEL-MAR.xlsx"
+    ],
+    "namesFiles2": [
+      "VIÑA DEL MAR"
+    ]
+  }
+]
